@@ -1,4 +1,11 @@
 hello world
 
+<<<<<<< HEAD
 this is windows browser  
  hii
+=======
+message
+
+this is the world full of computers
+this is windows browser 
+>>>>>>> add
